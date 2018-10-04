@@ -1,0 +1,3 @@
+C:/Users/Jim/CLionProjects/trigonometry/cmake-build-debug/CMakeFiles/trigonometry.dir
+C:/Users/Jim/CLionProjects/trigonometry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jim/CLionProjects/trigonometry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
